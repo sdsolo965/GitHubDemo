@@ -10,6 +10,7 @@ namespace GitHubDemo
             int number = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(number);
             //This is a comment but maybe more features.
+            //Here is another comment.
         }
     }
 }
