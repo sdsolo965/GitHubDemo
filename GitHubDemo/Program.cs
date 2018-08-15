@@ -9,6 +9,7 @@ namespace GitHubDemo
             Console.WriteLine("Enter a number.");
             int number = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(number);
+            //This is a comment but maybe more features.
         }
     }
 }
