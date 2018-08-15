@@ -6,7 +6,9 @@ namespace GitHubDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter a number.");
+            int number = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(number);
         }
     }
 }
