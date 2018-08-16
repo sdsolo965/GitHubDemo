@@ -11,6 +11,7 @@ namespace GitHubDemo
             Console.WriteLine(number);
             //This is a comment but maybe more features.
             //Here is another comment.
+            //Chris Britt has shown his mark here in this Demo.
             //Gabriel's comment.
             Console.WriteLine("I'm getting the hang of this.");
             //Zack Altom was here
